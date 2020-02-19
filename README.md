@@ -14,3 +14,5 @@ This is a plataformIO example code for the Remotsy ESP 32 board,
 
 
 You can buy it at [Ebay](https://www.ebay.com/itm/223436674701)
+or in the [Tindie Store](https://www.tindie.com/products/13404/)
+
